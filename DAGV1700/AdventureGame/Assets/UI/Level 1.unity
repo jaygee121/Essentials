@@ -353,6 +353,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.71
@@ -409,6 +417,14 @@ PrefabInstance:
     - target: {fileID: 5027335118214051860, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_Name
       value: Spikes (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1450,6 +1466,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.49
@@ -2431,6 +2455,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.12
@@ -2846,7 +2878,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1637915469}
   serializedVersion: 8
-  lengthInSec: 3
+  lengthInSec: 2
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -8307,6 +8339,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.89
@@ -9077,6 +9117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes
       objectReference: {fileID: 0}
+    - target: {fileID: 6294130785322501620, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1788305960}
     - target: {fileID: 7048548236011036467, guid: c4e006b89aacc96409d2d581a71ff4bc, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.3649299
